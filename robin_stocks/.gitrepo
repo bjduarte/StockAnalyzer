@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:jmfernandes/robin_stocks.git
+	branch = master
+	commit = 143ecbc633d9c7885fe9584aaaca334aba0b475a
+	parent = 6bfaa255e15482276aae0d638ce9c079589e88cf
+	method = merge
+	cmdver = 0.4.3
